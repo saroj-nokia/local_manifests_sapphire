@@ -6,6 +6,7 @@
     <remote name="sapphire-sm6225" fetch="https://github.com/sapphire-sm6225" clone-depth="1" />
     <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
     <remote name="Saroj-Tajpuriya" fetch="https://gitlab.com/Saroj-Tajpuriya" clone-depth="1" />
+    <remote name="Evolution-X-Devices" fetch="https://github.com/Evolution-X-Devices" clone-depth="1" />
 
     <!-- Removals -->
 
@@ -27,7 +28,7 @@
 
     <!-- Vendor - Common -->
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="sapphire-sm6225" revision="lineage-22.2" />
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Evolution-X-Devices" revision="vic" />
 
 />
 
