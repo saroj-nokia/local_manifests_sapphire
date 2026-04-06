@@ -13,7 +13,7 @@
     <!-- Repos -->
     <!-- Device -->
     <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="saroj-nokia" revision="lineage-23.0" />
-    <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="sapphire-sm6225" revision="15" />
+    <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="sapphire-sm6225" revision="16" />
     <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire" remote="saroj-nokia" revision="lineage-23.2" />
 
     <!-- Device - Common -->
