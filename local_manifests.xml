@@ -14,7 +14,7 @@
     <!-- Device -->
     <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="saroj-nokia" revision="lineage-23.0" />
     <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="sapphire-sm6225" revision="15" />
-    <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire" remote="saroj-nokia" revision="lineage-23.0" />
+    <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire" remote="saroj-nokia" revision="lineage-23.2" />
 
     <!-- Device - Common -->
 
@@ -28,7 +28,7 @@
 
     <!-- Vendor - Common -->
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-23.0" />
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-23.2" />
 
 />
 
