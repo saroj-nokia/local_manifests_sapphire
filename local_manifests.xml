@@ -3,6 +3,7 @@
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
 
     <!-- Remotes -->
+    <remote name="sapphire-sm6225" fetch="https://github.com/sapphire-sm6225" clone-depth="1" />
     <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
     <remote name="Evolution-X-Devices" fetch="https://github.com/Evolution-X-Devices" clone-depth="1" />
 
